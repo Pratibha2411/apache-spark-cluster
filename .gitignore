@@ -1,0 +1,5 @@
+linux_amd64
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform-provider-aws_v4.58.0_x5
